@@ -22,6 +22,7 @@ The goals for this challenge are to:
 You can access the web app here: [Belly Button Biodiversity](https://jbtrahin.github.io/Belly_Button_Biodiversity_Deployment/)
 
 Here is a preview of what the web app looks like once all the charts have been created and are functional:
+
 ![alt text](https://github.com/jbtrahin/Belly_Button_Biodiversity_Deployment/blob/master/belly_button_web_app_screenshot.png)
 
 ## Recommendations for further development
